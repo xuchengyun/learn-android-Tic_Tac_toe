@@ -1,5 +1,5 @@
 *.iml
-.gradle
+
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -12,7 +12,4 @@
 /captures
 .externalNativeBuild
 .cxx
-local.properties
-/app/src/androidTest/java/
-/app/src/main/java/
-/app/src/test/java/
+
